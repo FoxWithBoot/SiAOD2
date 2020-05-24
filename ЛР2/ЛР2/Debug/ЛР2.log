@@ -1,0 +1,15 @@
+﻿  ЛР2.cpp
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(41,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(45,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(46,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(61,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(68,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(84,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(98,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(111,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(140,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(148,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(155,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(189,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\user\source\repos\ЛР2\ЛР2\ЛР2.cpp(158): warning C4715: Graf::nameToindex: значение возвращается не при всех путях выполнения
+  ЛР2.vcxproj -> C:\Users\user\source\repos\ЛР2\Debug\ЛР2.exe
